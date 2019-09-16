@@ -17,4 +17,6 @@ http://127.0.0.1:9999/
 ## Build
 ```
 npm run prod
+
+output: /dist
 ```
