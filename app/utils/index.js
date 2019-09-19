@@ -1,11 +1,5 @@
-import fetch from "./fetch";
-import wdio from "./wdio";
-import validator from "./validator";
-import storage from "./storage";
+import add from "./add";
 
 export {
-  fetch,
-  wdio,
-  validator,
-  storage,
+  add,
 }
