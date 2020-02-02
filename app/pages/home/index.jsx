@@ -6,7 +6,7 @@
 
 import "./index.less";
 import React from "react";
-import { Section } from "@nice/nice-ui";
+import { Section } from "ky-nice-ui";
 
 export default class Home extends React.Component {
 	render() {
