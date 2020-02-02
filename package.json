@@ -10,7 +10,9 @@
   "author": "rgy",
   "license": "ISC",
   "dependencies": {
-    "nice-scripts": "git+https://github.com/rgy19930329/nice-scripts.git#master",
-    "nice-ui": "git+https://github.com/rgy19930329/nice-ui.git#master"
+    "@nice/nice-ui": "git+https://github.com/rgy19930329/nice-ui.git#master"
+  },
+  "devDependencies": {
+    "@nice/nice-scripts": "git+https://github.com/rgy19930329/nice-scripts.git#master"
   }
 }

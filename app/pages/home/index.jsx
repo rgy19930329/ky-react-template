@@ -1,12 +1,12 @@
 /**
- * exam
+ * @desc home
  * @author ranguangyu
  * @date 2019-9-14
  */
 
 import "./index.less";
 import React from "react";
-import { Section } from "nice-ui";
+import { Section } from "@nice/nice-ui";
 
 export default class Home extends React.Component {
 	render() {

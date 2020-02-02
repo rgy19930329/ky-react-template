@@ -1,4 +1,4 @@
-import { HOCAsync } from "nice-ui";
+import { HOCAsync } from "@nice/nice-ui";
 
 export default {
   path: "/list/detail/:email",

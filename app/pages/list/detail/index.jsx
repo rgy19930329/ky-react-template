@@ -6,7 +6,7 @@
 
 import "./index.less";
 import React from "react";
-import { fetch } from "nice-ui";
+import { fetch } from "@nice/nice-ui";
 
 export default class Detail extends React.Component {
 

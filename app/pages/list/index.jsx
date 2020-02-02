@@ -5,7 +5,7 @@
  */
 
 import React from "react";
-import { Section, fetch } from "nice-ui";
+import { Section, fetch } from "@nice/nice-ui";
 
 export default class List extends React.Component {
 
